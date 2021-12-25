@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2) format("truetype");
+}
+body{
+    background: url(https://image.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg);
+    background-size: cover;
+}
+h1{
+    font-family: "Roboto", sans-serif; 
+    text-align: center;
+    text-shadow: 1px 2px 2px #000;
+} 
+h2{
+    text-shadow: 1px 2px 5px cyan;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+img{
+    align-items: center;
+}
